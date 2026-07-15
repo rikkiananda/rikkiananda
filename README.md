@@ -1,54 +1,18 @@
-MABAR STRINOVA YU <𝟑
-============================================================
-    GA ADA ELEMENT DISINI<𝟑
-============================================================
 
-```
-██████╗ ██╗██╗  ██╗██╗  ██╗██╗
-██╔══██╗██║██║ ██╔╝██║ ██╔╝██║
-██████╔╝██║█████╔╝ █████╔╝ ██║
-██╔══██╗██║██╔═██╗ ██╔═██╗ ██║
-██║  ██║██║██║  ██╗██║  ██╗██║
-╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
-```
-  ⋆꙳•̩̩͙❅*̩̩͙‧͙    ‧͙*̩̩͙❆ ͙͛ ˚₊⋆⋅⋆──────⋆⋅☆⋅⋆──────⋆⋅☆⋅⋆──────⋆⋅☆⋅⋆──
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/porpo323) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rikki1307) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rikk.yah) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/rikkiananda_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rikki232) 
 
-   P̤I̤P̤I̤ ̤S̤A̤Y̤A̤N̤G̤ ̤M̤I̤M̤I̤?̤~_~  
-   ¸¸♬·¯·♪·¯·♫¸¸ @ ¸¸♫·¯·♪¸♩·¯·♬¸¸
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rikkiananda&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rikkiananda&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rikkiananda&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rikkiananda&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
- ⋆꙳•̩̩͙❅*̩̩͙‧͙    ‧͙*̩̩͙❆ ͙͛ ˚₊⋆⋅⋆──────⋆⋅☆⋅⋆──────⋆⋅☆⋅⋆──────⋆⋅☆⋅⋆──
+---
+[![](https://komarev.com/ghpvc/?username=rikkiananda&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <img src="https://files.catbox.moe/gn2z1w.png" width="180">
-
-  ⋆꙳•̩̩͙❅*̩̩͙‧͙    ‧͙*̩̩͙❆ ͙͛ ˚₊⋆⋅⋆──────⋆⋅☆⋅⋆──────⋆⋅☆⋅⋆──────⋆⋅☆⋅⋆──
-
-<h1 align="center">˖᯽ ݁˖Haiiiii,aku Rikki Ananda˖᯽ ݁˖</h1>
-<h3 align="center">Aku bukan dev ataupun Programmer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikkiananda" alt="rikkiananda" /></a> </p>
-
-- 🌱 I’m currently learning **• Secure Web Development • API Security • Linux CLI & Automation • UI/UX for Developer Tools • Motion Graphics for Interfaces**
-
-- 👨‍💻 All of my projects are available at [Nothing here sorry:)](Nothing here sorry:))
-
-- 📝 I regularly write articles on [Nothing here sorry:)](Nothing here sorry:))
-
-- 💬 Ask me about **JS,BOT DEV,API KEY,REST API**
-
-- 📫 How to reach me **instagram.com/rikk.yah/**
-
-- 📄 Know about my experiences [Nothing here sorry:)](Nothing here sorry:))
-
-- ⚡ Fun fact **Aku juga bisa editing khususnya After effect>.<**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rikk.yah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rikk.yah" height="30" width="40" /></a>
-<a href="https://discord.gg/rikki1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rikki1307" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikkiananda&show_icons=true&locale=en" alt="rikkiananda" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
